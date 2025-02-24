@@ -1,3 +1,5 @@
-<a href="https://youtu.be/ZFKRWJFUjyg" alt="...and the addled abstraction of being">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lveXBzMjg3YTlyZjJkcjNrMzRhOWF4bmtrd2hwbTVqb3V2Mmx1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14v8A3AX3A8lu8/giphy.webp">
-</a>
+## About Me
+
+I’m a PhD researcher in elementary particle theory, working on dark matter models, particle phenomenology, and exploring new ideas beyond the Standard Model. My work is driven by a curiosity to understand the universe at its most fundamental level.
+
+Any inquiries, collaboration opportunities, or discussions related to my research are welcome. Feel free to connect—let’s explore the infinite wonders of theoretical physics together.
