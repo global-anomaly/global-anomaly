@@ -12,7 +12,6 @@ Any inquiries, collaboration opportunities, or discussions related to my researc
 
 <p align="center">
 	<img class="hidden w-full dark:block" alt="riasat-sheikh" loading="lazy" src="https://github-readme-stats.vercel.app/api/?username=riasat-sheikh&amp;theme=github_dark_dimmed&amp;locale=en&amp;show_icons=true&amp;card_width=480&amp;include_all_commits=true&amp;count_private=true">	
-	&nbsp;&nbsp;
 	<img class="hidden w-full dark:block" alt="Top languages for riasat-sheikh" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riasat-sheikh&amp;theme=github_dark_dimmed&amp;locale=en&amp;card_width=480&amp;layout=compact&amp;langs_count=8">
 </p>
 <p aling="center">
