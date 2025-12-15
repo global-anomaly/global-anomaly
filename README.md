@@ -9,7 +9,7 @@ Any inquiries, collaboration opportunities, or discussions related to my researc
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source
       srcset="https://github-readme-stats-iota-two-66.vercel.app/api/?username=riasat-sheikh&show_icons=true&card_width=480&theme=github_dark_dark"
@@ -47,4 +47,4 @@ Any inquiries, collaboration opportunities, or discussions related to my researc
     />
     <img src="https://github-profile-trophy.vercel.app/?username=riasat-sheikh&theme=dark_dimmed&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=-C&column=7" alt="riasat-sheikh trophies" />
   </picture>
-</p>
+</p> -->
